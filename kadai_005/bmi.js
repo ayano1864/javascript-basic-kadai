@@ -1,9 +1,10 @@
-// 体重と身長の変数を定義
+// 体重と身長の変数
 let weight = 68; // kg
 let height = 1.7; // m
 
-// BMIを計算
+// BMI計算
 let bmi = weight / (height * height);
 
-// 結果をコンソールに出力
+// 結果
 console.log(bmi);
+

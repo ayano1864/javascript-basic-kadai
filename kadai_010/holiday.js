@@ -10,6 +10,6 @@ let i = 0;
 while (i < holidays.length) {
   console.log(holidays[i]);
   i += 1;
-
 }
+
 
